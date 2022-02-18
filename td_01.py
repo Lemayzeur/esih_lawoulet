@@ -40,6 +40,7 @@ while CHANS > 0: # while user_choice != chwa: # while True
 	# Si itilizate genyen
 	else:
 		print('Bravo! Ou genyen ak {0} chans'.format(CHANS))
+		break
 
 
 
